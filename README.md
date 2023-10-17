@@ -21,7 +21,7 @@ To set up OptiGlyph on your system, follow these steps:
 1. Clone the GitHub repository:
 
    ```
-   git clone https://github.com/your-username/OptiGlyph.git
+   git clone https://github.com/Shanu-Mathew/OptiGlyph.git
    ```
 
 2. Install the required dependencies. You can use pip for this:
@@ -35,7 +35,7 @@ To set up OptiGlyph on your system, follow these steps:
 3. Run the OptiGlyph application:
 
    ```
-   python OptiGlyph.py
+   python main.py
    ```
 
 ## Usage
